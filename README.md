@@ -2,9 +2,9 @@
 
 ## Automation Developer from Latvia (Code/No-Code)
 
- - 🛠️ Skilled in applying automation tools such as n8n and ZennoPoster and Content Downloader for efficient task execution.
- - 🤖 Highly motivated to automate processes across the board, transforming manual workflows into streamlined, automated operations.
- - 🚀 Continuously seeking knowledge and pushing limits; currently focused on Python, FastAPI, and sophisticated Web Scraping methods.
+- 🛠️ Skilled with automation tools like n8n, ZennoPoster, and Content Downloader for efficient task execution.
+- 🤖 Driven to automate processes, transforming manual workflows into streamlined operations.
+- 🚀 Always learning and pushing boundaries; currently focused on Python and advanced Web Scraping.
  - 🌱 Exploring the future of automation, building intelligent bots, and integrating new technologies.
  - 📫 Contact E-mail: kagorec@gmail.com
  - 📫 Contact Telegram: @kagorec
