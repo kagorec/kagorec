@@ -21,3 +21,5 @@
  - [Telegram](https://t.me/@kagorec)
  - [Twitter](https://x.com/kagorec)
  - [Email](mailto:kagorec@mail.com)
+ - [Zennoposter forum](https://zenno.club/discussion/members/kagorec.6234/)
+ - [Content Downloader forum](https://forum.sbfactory.ru/members/kagorec.149/)
