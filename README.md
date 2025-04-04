@@ -10,13 +10,12 @@
  - 📫 Contact Telegram: @kagorec
 
 ## My Skills
-- **Languages:** PHP, Python, JavaScript, etc
-- **Markup & Styling:** HTML, CSS, Bootstrap, etc
-- **Databases:** MySQL, SQLite, etc
-- **Tools (use every day):** Git, VS Code, Cursor, EmEditor, Zennoposter, n8n, Content Downloader, etc
-- **CMS (install/fix/optimize/convert):** WordPress, Datalife Engine, Invision Community (IPB/IPS), OpenCart, Prestashop, Simple machines forum, etc
-- **AI & Prompt Engineering & API:** ChatGPT, DeepSeek, Gemini, Claude, Qwen, Mistral, Leonardo, MidJourney, etc
-
+- **Languages:** PHP, Python, JavaScript
+- **Markup & Styling:** HTML, CSS, Bootstrap
+- **Databases:** MySQL, SQLite
+- **Tools (use every day):** Git, VS Code, Cursor, EmEditor, Zennoposter, n8n, Content Downloader
+- **CMS (install/fix/optimize/convert):** WordPress, Datalife Engine, Invision Community, SMF, OpenCart, Prestashop
+- **AI & Prompt Engineering & API:** ChatGPT, DeepSeek, Gemini, Claude, Qwen, Mistral, Leonardo, MidJourney
 ## 🌍 Where to find me:
  - [LinkedIn](https://www.linkedin.com/in/kagorec/)
  - [Telegram](https://t.me/@kagorec)
