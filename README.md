@@ -19,6 +19,6 @@
 
 ## 🌍 Where to find me:
  - [LinkedIn](https://www.linkedin.com/in/kagorec/)
- - [Telegram](https://t.me/@kagorec) |
+ - [Telegram](https://t.me/@kagorec)
  - [Twitter](https://x.com/kagorec)
  - [Email](mailto:kagorec@mail.com)
