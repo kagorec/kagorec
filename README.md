@@ -13,7 +13,7 @@
 - **Languages:** PHP, Python, JavaScript
 - **Markup & Styling:** HTML, CSS, Bootstrap
 - **Databases:** MySQL, SQLite
-- **Tools (use every day):** Git, VS Code, Cursor, EmEditor, Zennoposter, n8n, Content Downloader
+- **Tools (use every day):** Git, VS Code, EmEditor, Zennoposter, n8n, Content Downloader
 - **CMS (install/fix/optimize/convert):** WordPress, Datalife Engine, Invision Community, SMF, OpenCart, Prestashop
 - **AI & Prompt Engineering & API:** ChatGPT, DeepSeek, Gemini, Claude, Qwen, Mistral, Leonardo, MidJourney
 ## 🌍 Where to find me:
