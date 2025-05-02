@@ -8,6 +8,7 @@
  - 🌱 Exploring the future of automation, building intelligent bots, and integrating new technologies.
  - 📫 Contact E-mail: kagorec@gmail.com
  - 📫 Contact Telegram: @kagorec
+ - 🌍 Languages: 🇱🇻 🇷🇺 🇺🇸
 
 ## My Skills
 - **Languages:** PHP, Python, JavaScript
